@@ -4,7 +4,7 @@
 
 ## Description
 
-Deploy Vector using Ansible.
+Deploy LightHouse using Ansible.
 
 ## Requirements
 
